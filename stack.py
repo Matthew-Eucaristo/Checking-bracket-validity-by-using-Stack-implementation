@@ -38,7 +38,7 @@ class Stack:
         return temp_node_sementara[index]
 
     def isEmpty(self) -> bool:
-        for node in self:
+        for _ in self:
             return False
         return True
 
