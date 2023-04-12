@@ -18,3 +18,6 @@ To use this project, navigate to the project directory and run the `main.py` fil
 ## Contributing
 
 This project was created as an assignment for a course. The project is not actively maintained, but all suggestions/contributions are welcomed!
+
+## License
+[MIT](LICENSE)
